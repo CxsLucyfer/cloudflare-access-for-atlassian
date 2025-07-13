@@ -164,6 +164,6 @@
 		<atlassian.template.renderer.version>3.0.0</atlassian.template.renderer.version>
 		<atlassian.sal.version>3.1.0</atlassian.sal.version>
 		<active.objects.version>1.5.0</active.objects.version>
-		<apache.bval.version>1.1.2</apache.bval.version>
+		<apache.bval.version>2.0.0</apache.bval.version>
 	</properties>
 </project>
